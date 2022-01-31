@@ -1,0 +1,23 @@
+SplitPane{
+    -fx-background-color: #2f2e2e;
+    -fx-progress-color: #2f2e2e;
+}
+
+.split-pane-divider {
+    -fx-background-color: #212121;
+}
+
+Button{
+    -fx-background-color: #c2c2c2;
+    -fx-border-width: 0;
+}
+
+Button:hover{
+    -fx-background-color: #a6a6a6;
+    -fx-border-width: 0;
+}
+
+Label{
+    -fx-text-fill: #c2c2c2;
+}
+
